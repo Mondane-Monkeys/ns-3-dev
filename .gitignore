@@ -48,7 +48,7 @@ vcpkg/
 
 .vs/
 .vscode/
-scratch/scripts/
+#scratch/scripts/
 .clangd
 CLAUDE.md
 
