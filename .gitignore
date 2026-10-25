@@ -47,6 +47,11 @@ cmake-*/
 vcpkg/
 
 .vs/
+.vscode/
+scratch/scripts/
+.clangd
+CLAUDE.md
 
 # Ignore local cache used by e.g. clangd
 .cache/
+CLAUDE.md
